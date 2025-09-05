@@ -106,7 +106,7 @@ This ensures:
 ---
 
 ## 📸 Screenshots  
-👉 *(You will add screenshots here.)*  
+<img width="1366" height="704" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/507cf722-6cf4-4f39-971d-a0376ee5e5f8" />
 
 ---
 
