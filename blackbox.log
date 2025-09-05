@@ -1,0 +1,326 @@
+55c8464a0c7f24442fc9f59b188a3ea565926a69b4caa701d432c5b18c06d1f8 | 2025-09-05 05:33:30 [SYSTEM] Armies deployed. Friendlies: 10, Enemies: 10
+5570dbc8f0a1bfde4db8e3aec5524203bc6de37a35e59e83a902d457b4021fb9 | 2025-09-05 05:33:31 [SYSTEM] Simulation Started. Robots on both sides are ready.
+968fc2caee8a2a927b782d6be85152152101921b0140a8d3f07c6effc76d3fa2 | 2025-09-05 05:33:31 [TIP] Press H for workflow HUD. E to request engagement, J for kill-switch request, Q/W/E approvals.
+263e98f8e9f83254ebae1dbdf5b0035d1cfaa9fed7ed7205e624b42ded79a98e | 2025-09-05 05:33:41 [HUMAN-CMD] Friendly Fire Authorization: ON
+7d41dccbeb578985a0abf58349e18d211941354dc18e57e141eee1bc815b2d70 | 2025-09-05 05:33:41 [HUMAN-CMD] Enemy Fire Authorization: ON
+03606947aaad45183f00a71e88640f2eb73f62cf2083e038fd14fbd5df30f521 | 2025-09-05 05:33:42 [HIT] EN-Bot-09 destroyed by FR-Bot-09.
+e206c6042eb7dfdfa90619a761b4467c8533699f0fe179b7f022fb42a2c6512e | 2025-09-05 05:33:42 [HIT] FR-Bot-09 destroyed by EN-Bot-09.
+b0660dc934a31add47be02c0d8b6b4ad2ae1822f368acdf4a7feeaf3f59b2688 | 2025-09-05 05:33:42 [HIT] EN-Bot-06 destroyed by FR-Bot-08.
+041801ba684485d928104920850cb40049f49ef7ce8a7c2462c4fd4bf7e79dfc | 2025-09-05 05:33:42 [ATTACK] Intercepted Command Packet → Replay attempt.
+b6af9159a1172ba04f0b94baed5c9b618c71af6427ac554670b578b0aa7ac468 | 2025-09-05 05:33:42 [MITIGATION] Nonce+TTL ledger blocked command: Expired command TTL.
+77d8ad556541de637c07a5c343f8a29be3ec8f913a3006411d2541abdd8f8f36 | 2025-09-05 05:33:42 [IDS] Incident 'replay_fail' raised. Anomaly score=0.7
+7b4269a218f30a3ce8e713be8fa1e875ca85e5311477b6ddb1af686bb9ed3fe1 | 2025-09-05 05:33:42 [FAILSAFE] System degrading capabilities (reduced fire rate).
+74fcf528650c1603e8ee0d2ae69d5aab276f3b6ba0301fbaf1564fb563411082 | 2025-09-05 05:33:43 [HIT] FR-Bot-06 destroyed by EN-Bot-08.
+91209566c9f6cddcf940ce6432e7cafb69ca77a29638a23f2537199261fddb68 | 2025-09-05 05:33:43 [FAILSAFE] System recovered to normal ops.
+9c578a6de129da26944049c581dcedbac8bcc0d6d30dbbb4c30cfda34c9eefc8 | 2025-09-05 05:33:43 [HIT] EN-Bot-04 destroyed by FR-Bot-05.
+45603bc01452affb84340d8f022767fe3636aebe4e9785a1830c072100377fe6 | 2025-09-05 05:33:43 [HIT] FR-Bot-04 destroyed by EN-Bot-07.
+4aed81c469d21055a68602c505c34698810036912f47cae2391956a880004a77 | 2025-09-05 05:33:43 [HIT] EN-Bot-02 destroyed by FR-Bot-03.
+0f61d0e7bc914860bb22a198dd3983fbe5f9b5711e80799a20b1d2a37da0d77e | 2025-09-05 05:33:43 [HIT] FR-Bot-02 destroyed by EN-Bot-05.
+288b89ad6e8acfe58c5d117edd639923ff749f6ff0e72d9255908147d641218d | 2025-09-05 05:33:43 [HIT] EN-Bot-08 destroyed by FR-Bot-08.
+d3af13f744b82721908febeca23551a802dff2cfe21b76649f4c2798beb18528 | 2025-09-05 05:33:43 [HIT] FR-Bot-08 destroyed by EN-Bot-07.
+eaed4464979de281ea3f3199be6db0857fcb93fe4a8624f9e3825afb9a76bf7b | 2025-09-05 05:33:44 [HIT] FR-Bot-07 destroyed by EN-Bot-08.
+0bcd5d2e82a5e0954e08bf76c411a38ae74c99f72755fa50cdce9066c8bca927 | 2025-09-05 05:33:44 [HIT] EN-Bot-07 destroyed by FR-Bot-08.
+5f3b284ec2496f079fc92642eda700a16cd068a9f5614515688393ded1d0e6ec | 2025-09-05 05:33:45 [HIT] FR-Bot-05 destroyed by EN-Bot-07.
+b8ca9910d296e139c692444e72184e47e8b6edf7c2b4f0f8859267b6a66e0e79 | 2025-09-05 05:33:45 [HIT] FR-Bot-00 destroyed by EN-Bot-05.
+960809cd5a4cb634e1b85ef9690f94cadfe23f4e5291a6cf4820c25a99e40f26 | 2025-09-05 05:33:46 [HIT] EN-Bot-00 destroyed by FR-Bot-01.
+1caf1a33b14e1c08c6f82f6d245bc6a8927177a6bd9bc49c4ea84774013635ca | 2025-09-05 05:33:46 [HIT] EN-Bot-05 destroyed by FR-Bot-03.
+fea4fbf76cc45687cbc951df26f62a08806ad6084f7b6fcd282cf81ece0c8cd4 | 2025-09-05 05:33:46 [HIT] EN-Bot-03 destroyed by FR-Bot-05.
+27009b299b64e451d04967a4aaa5df5dd489f8c78ae8f6968521792a44ce6ccd | 2025-09-05 05:33:47 [HIT] FR-Bot-03 destroyed by EN-Bot-01.
+efdc6a402dba3be33afe282859e3d8667d310490175e563a9f69af1be0902969 | 2025-09-05 05:33:47 [HIT] FR-Bot-01 destroyed by EN-Bot-01.
+d4d397178218deb547c6ec2a5b86e074bde489491343c6f1e94802942bf6b752 | 2025-09-05 05:33:48 [HIT] EN-Bot-01 destroyed by FR-Bot-01.
+71ee66332d0e53f4492a39873fba50044b72c0514d5f0ef0ce716e08efa68772 | 2025-09-05 05:33:50 [ATTACK] Intercepted Command Packet → Replay attempt.
+d64424feb37882810ae3f1b28005a70bb3929eb0d8e6ac14876f46f9f9917587 | 2025-09-05 05:33:51 [MITIGATION] Nonce+TTL ledger blocked command: Expired command TTL.
+e22d04eb718b9b36559a8dcf33beb116a2388835d19fbccd4a2e6558c23259eb | 2025-09-05 05:33:51 [IDS] Incident 'replay_fail' raised. Anomaly score=0.7
+eebaf695dbe4bc0ef2d2193383b61415a690702e379376977483ca43ab0edbb6 | 2025-09-05 05:33:51 [FAILSAFE] System degrading capabilities (reduced fire rate).
+b83070b72cc0a7513fbabcd5e28e6fa8fbcc02e3b8eaf6875dd1fa7493f2e7d6 | 2025-09-05 05:33:51 [FAILSAFE] System recovered to normal ops.
+20981a2e13712af0e7bab0b22459f01a7ced1301140e44e2f794c841eb5cf0b6 | 2025-09-05 05:34:01 [SYSTEM] Armies deployed. Friendlies: 10, Enemies: 10
+cc9c7d1d10249b359306dfb07f8e70bc4187c872591140a7b8d63ccbbe8ea8a4 | 2025-09-05 05:34:01 [SYSTEM] Simulation Started. Robots on both sides are ready.
+20b8aff2bb3effa0e25e864eec686c3c1ce04236a9f733ae450cf6edb2676435 | 2025-09-05 05:34:01 [TIP] Press H for workflow HUD. E to request engagement, J for kill-switch request, Q/W/E approvals.
+3edbc92c4f0a56e536041de649d337819324a342e708a28cf6a19650e7a3e816 | 2025-09-05 05:34:09 [ATTACK] Device spoofing/rogue node broadcasting.
+e55aa5e42e5249a47e258cdf955864268e0df019b99b21eedfae901ceff5b8b5 | 2025-09-05 05:34:09 [MITIGATION] Hardware RoT attestation rejects rogue node.
+cd69e3d53418537cbb4e67fda6ff7c3b4cf4a8026214509ddf0fd1e6a4040e11 | 2025-09-05 05:34:22 [ATTACK] Network compromise suspected (MITM).
+540abc92ac3f2a0d255f4a310639e72767210a89e79dcd94a1db7f7c1cc9dd38 | 2025-09-05 05:34:22 [MITIGATION] Out-of-band path + mTLS used for critical commands.
+deed0da51aa3f88a8d79a011ab1444cfa7dc37d5044ecab061a61c4d87ba3a18 | 2025-09-05 05:34:22 [IDS] Incident 'network_compromise' raised. Anomaly score=0.6
+d05242a7ee4a18b1d2ae928f6e813e0b3c3330321b73c9db85dd8d967f97e4f8 | 2025-09-05 05:34:38 [ATTACK] Intercepted Command Packet → Replay attempt.
+b6418f3acebcb847d6eee75b833e5291e59dc463be74ae9ae8103ae845f8be65 | 2025-09-05 05:34:38 [MITIGATION] Nonce+TTL ledger blocked command: Expired command TTL.
+d8a720bc4b0c7794c13940248d5da9c3a9ee21eb819f0aadd8d255fbdca14391 | 2025-09-05 05:34:38 [IDS] Incident 'replay_fail' raised. Anomaly score=0.7
+c95b5837425208fb3cbba374c4c6cf133ad4af7de42c9d595278321bee9a5b2a | 2025-09-05 05:34:38 [FAILSAFE] System degrading capabilities (reduced fire rate).
+dbe901aa9d1cb4e6350f6222e26229d27133194a33602fc0448b9cc5c0fe03cf | 2025-09-05 05:34:39 [FAILSAFE] System recovered to normal ops.
+27dabb48f6837beaed87db19e9fee0b8b32d739665f29082031b12a4fa7208bd | 2025-09-05 05:34:46 [KMS] Rotated keys to epoch 1.
+1b06c606efaad122cb61be812f31030c24aa451a5f4dc43a132164e9f01066cc | 2025-09-05 05:34:50 [ATTACK] Intercepted Command Packet → Replay attempt.
+af24cd61abb200dc779ffcaa632a3d2b212de04e1d18c70513e0caf40b112e81 | 2025-09-05 05:34:50 [MITIGATION] Nonce+TTL ledger blocked command: Expired command TTL.
+56424794c32cb592d45f33ddd0b417d2d156f390ef8c8338328694bb16b26477 | 2025-09-05 05:34:51 [IDS] Incident 'replay_fail' raised. Anomaly score=0.7
+571d85842dfdc1d12c74bad02ead427b74719edc8a3b45606993d7f524a6a720 | 2025-09-05 05:34:51 [FAILSAFE] System degrading capabilities (reduced fire rate).
+cc1593457a81fea12493063b9b28ac60d7a9a8a91e53312bf88259559ce71843 | 2025-09-05 05:34:51 [FAILSAFE] System recovered to normal ops.
+4cc2f94592580728eab3d0e467acecc7305a06d8ea3d990589f2b1292e0e3bc6 | 2025-09-05 05:34:59 [ATTACK] Network compromise suspected (MITM).
+bcea52ab7302ad6678a854e28eb5d4f1942e8ecb03563db3997cf281a6b3ae9f | 2025-09-05 05:34:59 [MITIGATION] Out-of-band path + mTLS used for critical commands.
+84c37978d69c60e95335c7a31ae0d7081b3ee96136828e3fb6443c9eb369e0c2 | 2025-09-05 05:35:07 [ATTACK] Device spoofing/rogue node broadcasting.
+09769d3d279c4d2be313e474845ce265787b043a5d7893ed5bf18bb59d0e2c63 | 2025-09-05 05:35:07 [MITIGATION] Hardware RoT attestation rejects rogue node.
+24edbc6847ad176bec9e0bc2de4af450aa1d746d0c6f3a95f20db14d0894f519 | 2025-09-05 05:35:07 [IDS] Incident 'rogue_node' raised. Anomaly score=0.9
+342b1ae6d28beadd90338ec0e45a9a1196b4dfa84dfea2f8ee326aeac79ddcfd | 2025-09-05 05:35:07 [FAILSAFE] System degrading capabilities (reduced fire rate).
+a89564272d9567bb31409e634d6312878a74b12d91dabf013f9a237d9577c9e6 | 2025-09-05 05:35:07 [FAILSAFE] System recovered to normal ops.
+d662407b0d5d94d9361e75d01755b939a223179f901f1ca8e894ba03d5dea0e8 | 2025-09-05 05:35:20 [ATTACK] Intercepted Command Packet → Replay attempt.
+428457377158746c44e8244c6e4636a61e70d53406d774bc492b4f59c64a5b6e | 2025-09-05 05:35:20 [MITIGATION] Ledger accepted, but anomaly scan performed.
+db3864b4bdee402db5a9c8bed3ae0469ecb9955abaa4a64ba2e83abab5eede6c | 2025-09-05 05:35:23 [AUTH] Approval by Officer-C recorded (1/3).
+2b34391d669076835d1014cfc1a8a8f2423da2b8a84ce4945e737e2aa335f823 | 2025-09-05 05:35:24 [HUMAN] Engagement request pending: Need 2-of-3 approvals (Q/W/E).
+56f670ef728e5682937994abc5059e8057cc51968372375693674514aa3ac412 | 2025-09-05 05:35:29 [AUTH] Approval by Officer-C recorded (1/3).
+6fb82fcdbb326725a8f7ce6bec1c8fa52683c8d427284194c7fe09ae5a15ad6f | 2025-09-05 05:35:29 [HUMAN] Engagement request pending: Need 2-of-3 approvals (Q/W/E).
+635a4161a1bb8bf3d4681b002d0487ff82faed6b68fe268eebd61140fec450a7 | 2025-09-05 05:35:31 [KMS] Rotated keys to epoch 2.
+0a9aac1f8ca1040ed522ba7fab2057d73b88fd7e41f23b9d828f23211d75d768 | 2025-09-05 05:35:32 [AUTH] Approval by Officer-C recorded (1/3).
+4ca984594ccae627653918e8d1ef1a17d3b8f1b22af6ea4aa3f81737a1cf00ad | 2025-09-05 05:35:32 [HUMAN] Engagement request pending: Need 2-of-3 approvals (Q/W/E).
+d833ee5a714d6d25dae37928484bb18e7e78a892de6106210a7124e5e4c0b690 | 2025-09-05 05:35:32 [AUTH] Approval by Officer-C recorded (1/3).
+56ac0ef730c31b3afb50f3c92cd1938a8f073441df98dd9e7f6cf0d2a8b524fa | 2025-09-05 05:35:32 [HUMAN] Engagement request pending: Need 2-of-3 approvals (Q/W/E).
+e21375aaf526231d0865431fb215c6d155022227a9280101fc4d0b815f647061 | 2025-09-05 05:35:36 [ATTACK] Intercepted Command Packet → Replay attempt.
+9fb830f621c7a5d2e3af83d7edc66bbdb586bb37fc42a321809160fe8f38513d | 2025-09-05 05:35:36 [MITIGATION] Nonce+TTL ledger blocked command: Expired command TTL.
+a7f0c9e421b7775ad854686f9a13b5d7cd8b1907b2b505a6f41f65b3899991d6 | 2025-09-05 05:35:36 [IDS] Incident 'replay_fail' raised. Anomaly score=0.7
+99505c17f27f58a2e8d60f6b2379193bb39d9c6b278dc07a97b2eff424d4760c | 2025-09-05 05:35:36 [FAILSAFE] System degrading capabilities (reduced fire rate).
+90b1ab0b912504eeb9b238dce6a7b91ecfc84a74c466db2d1b9d3f6105ceb8d2 | 2025-09-05 05:35:36 [FAILSAFE] System recovered to normal ops.
+fbe4f52c125e9f4e7bfa625a92656ba92c85675c748af680f8b568c540a9fbdc | 2025-09-05 05:35:44 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+edad3973792e56ccb4183cc7fc8b57fcf150a5a6902c0d2f37f83e08f1b5f6c2 | 2025-09-05 05:35:45 [ATTACK] Intercepted Command Packet → Replay attempt.
+371cebd5d5c67cb712963aa35ca33ce4f14b5be9142ce226a49d42e57bcfea23 | 2025-09-05 05:35:45 [MITIGATION] Ledger accepted, but anomaly scan performed.
+4e8fc708f076e68c5914744faa649f6d7f122a566623e7626d2e45a257b25b8c | 2025-09-05 05:35:54 [ATTACK] Network compromise suspected (MITM).
+b7145c7a59319cfc5e948ba953f644735429c79bcff8b526e17f6397f8a44bd5 | 2025-09-05 05:35:54 [MITIGATION] Out-of-band path + mTLS used for critical commands.
+eb547797325ef8b8703dad3b78a0ab2789e8d4f15e70e3f3c751ed0805372963 | 2025-09-05 05:35:59 [SYSTEM] Terrain switched to DESERT.
+190e067cefda1566c78e3b2e92a972e52300b89d0407a76754caa7fe04d2d576 | 2025-09-05 05:36:03 [HUMAN-CMD] Friendly Fire Authorization: ON
+6223c6888b594b4ef1e1df15992d7020dc0e08c90d547acee8399771a50e4f07 | 2025-09-05 05:36:03 [HUMAN-CMD] Enemy Fire Authorization: ON
+20cb03afe3756d468352f4debe7b68f52427c538c95d94ba576c4524ab6735d9 | 2025-09-05 05:36:04 [ATTACK] Intercepted Command Packet → Replay attempt.
+cf3cb903ce9e05a327ed89a8975ff402d18b36224e3942ea90609cc86e5e4fed | 2025-09-05 05:36:04 [MITIGATION] Nonce+TTL ledger blocked command: Expired command TTL.
+f582510bb9706fe8e7881e4acc79afb7be73d8e53f8b92b3864f50f93334528e | 2025-09-05 05:36:04 [IDS] Incident 'replay_fail' raised. Anomaly score=0.7
+9e295cb4291fcf1bb0aa46f3c9f379e94ec9ed8ab3167645415337d163c15433 | 2025-09-05 05:36:04 [FAILSAFE] System degrading capabilities (reduced fire rate).
+b4445ec9fff2f4e1d409333b408f94d16ce52ca30df8334dfd4ddc7cc2d3a734 | 2025-09-05 05:36:04 [FAILSAFE] System recovered to normal ops.
+190299aa8873fef85be53e7400117a3e7ed2a19dd5747bc6306e48c0a2cf1a00 | 2025-09-05 05:36:04 [HIT] EN-Bot-09 destroyed by FR-Bot-09.
+a2c9f4da7fa137c1ba5d134adfad0e6f99cdcced8ff789c5c8cd404b8b618494 | 2025-09-05 05:36:04 [HIT] FR-Bot-09 destroyed by EN-Bot-09.
+b67d276329e864bd2edf751d588e1df9f301b231746aab22bf5c3fe90c46bbbf | 2025-09-05 05:36:04 [HIT] EN-Bot-06 destroyed by FR-Bot-08.
+b3dcb5e0ef8f7a5d773900f568e8bd2cfb0f0dd34caea6ed6d006f4b8a206cbe | 2025-09-05 05:36:04 [HIT] EN-Bot-04 destroyed by FR-Bot-07.
+75f5c305072e7553dcb850e766ce7b36388799075c12932dfb74d8238391bf89 | 2025-09-05 05:36:04 [HIT] FR-Bot-06 destroyed by EN-Bot-08.
+e8856f48677a988784b7a0968c06557a68ac8f683e617e753d32267b5b07f913 | 2025-09-05 05:36:05 [HIT] FR-Bot-04 destroyed by EN-Bot-07.
+969d2aa319a326dfb3fc5b72a95ec625bf0857702df0f7216b5b45eb737d7175 | 2025-09-05 05:36:05 [HIT] EN-Bot-08 destroyed by FR-Bot-09.
+d0293cd3b99afd25c4809798c6b623a9ea1f192ec7c1b29b173f90d2eff2275a | 2025-09-05 05:36:05 [HIT] FR-Bot-02 destroyed by EN-Bot-01.
+8835843cf6a28e4e4f466f1f9d7bd8803669818f24db21453cea2b8fde52805d | 2025-09-05 05:36:05 [HIT] FR-Bot-08 destroyed by EN-Bot-04.
+a9b2e3446cd7ec5422e799817c0fbabb2f8a06035cb0f9dee91a14dd702913d8 | 2025-09-05 05:36:05 [HIT] FR-Bot-07 destroyed by EN-Bot-08.
+7d3be7760282defc80c1e94dd4b75ca1d15573970cb990e57cf8d34fa350f042 | 2025-09-05 05:36:06 [HIT] EN-Bot-07 destroyed by FR-Bot-08.
+2010eabe1d31755dfe3baa1b76cea8e3961bce73f6fe3ccf821eaa2bc987850b | 2025-09-05 05:36:06 [HIT] EN-Bot-05 destroyed by FR-Bot-07.
+83e6d0ede5edf7755cd2460963a6422289337b19a60b3b840a7b81a83ec12266 | 2025-09-05 05:36:07 [HIT] FR-Bot-05 destroyed by EN-Bot-07.
+d0bed4f4b2c2b015f259b2d742dbf104a5203819dab096ad8c06eeff08feaeb1 | 2025-09-05 05:36:07 [HIT] EN-Bot-02 destroyed by FR-Bot-01.
+bfa57ebf7890d284237844b5621b531626ca660e8e54d981b5b0c579f82d041d | 2025-09-05 05:36:07 [HIT] EN-Bot-00 destroyed by FR-Bot-05.
+0798b2bb4114bb74133558314c62956215b21de83073a195100402c0205ba590 | 2025-09-05 05:36:07 [HIT] FR-Bot-00 destroyed by EN-Bot-05.
+b0f001f9b665535d41b7c38a2406a3d5f39e4f7e965e9a6f7994ff8cab285594 | 2025-09-05 05:36:07 [HIT] FR-Bot-03 destroyed by EN-Bot-03.
+b0f3c235edfd67c1cc0fce7c3a0d765e1e05c9be5436e6b5f519c3602b11b3e0 | 2025-09-05 05:36:08 [HIT] EN-Bot-03 destroyed by FR-Bot-00.
+10755bbaf186747e7d66a05670953081718ea27c797e2c2f5297a0b7dc3a9eda | 2025-09-05 05:36:09 [HIT] EN-Bot-01 destroyed by FR-Bot-03.
+0f0d12a2e89e0b928553f8e7f23edfe4024de56301d42d3fad98c69f490e5a01 | 2025-09-05 05:36:09 [HIT] FR-Bot-01 destroyed by EN-Bot-03.
+4031b2186a685a905bfa7b5fef89a4015c1821640952ad5d74a339b89990954e | 2025-09-05 05:36:12 [ATTACK] Network compromise suspected (MITM).
+b29cb30fc0279ffb2cc4552e314e63373c91a0962bfa49e6a4f14aabcbf1b957 | 2025-09-05 05:36:12 [MITIGATION] Out-of-band path + mTLS used for critical commands.
+9a3148dada681df2221de3a3693e788dc5f10bcd62429756e271d47f4d803ef9 | 2025-09-05 05:36:12 [IDS] Incident 'network_compromise' raised. Anomaly score=0.6
+77d3f93cda1b35a39c6d56b8c551efd845931ffd1e1e8160eb0044abc392ef40 | 2025-09-05 05:36:16 [KMS] Rotated keys to epoch 3.
+b1a85c56e7ff1551c31e1bc88a94d728ba5b4b188ed69a481962b689fd13862c | 2025-09-05 05:36:22 [SYSTEM] Terrain switched to GREEN.
+c823112fc9bfb14cfeb4e6003bc1e76d4aa33b235eaefb35540255f9ed07f950 | 2025-09-05 05:36:25 [ATTACK] Network compromise suspected (MITM).
+b0a6b25a75117a354f5e4303f5b3a208d518c343573552b9fdb4e2986794e85a | 2025-09-05 05:36:25 [MITIGATION] Out-of-band path + mTLS used for critical commands.
+922557b0094d568cc008dc1a44c80d1f5953bc1706c16b373309d9a5a20688b9 | 2025-09-05 05:36:27 [SYSTEM] Terrain switched to DESERT.
+cd6f9da9e5d6e1971957da411c826ffec8200b6a3082425986dec965b517322d | 2025-09-05 05:36:28 [SYSTEM] Terrain switched to GREEN.
+5d1917c2d2c2c86d382bf02e95899678c69b6e2bf464bd54b15392a213d2f885 | 2025-09-05 05:36:35 [ATTACK] Network compromise suspected (MITM).
+b934718a727a326a0720dbb51635d57cc22749aa3a1c48f85aac77485c43b045 | 2025-09-05 05:36:35 [MITIGATION] Out-of-band path + mTLS used for critical commands.
+07a3a824178a9854beee8b45fda0f1d532722c3b64182ba88ea47944ab56da28 | 2025-09-05 05:44:36 [SYSTEM] Armies deployed. Friendlies: 10, Enemies: 10
+8cd233af938e6623b0af002cbac26b918de2f91526ae961d2ef4234fb3c7d02e | 2025-09-05 05:44:36 [SYSTEM] Simulation Started. Robots on both sides are ready.
+f9031f4dde59cb9fa3907d0a86069352638b95ed6af69a94793fa0b7229ae523 | 2025-09-05 05:44:36 [TIP] Press H for workflow HUD. E to request engagement, J for kill-switch request, Q/W/E approvals.
+dc3dd0c265719fa7cfd909b12275a2daac520a81c4c91ebd1f709dfde877cd9c | 2025-09-05 05:44:50 [ATTACK] Device spoofing/rogue node broadcasting.
+51dda44a526a0eafb3018f3e8f995ea46600f1c9ecf557660ff68984c6124f63 | 2025-09-05 05:44:50 [MITIGATION] Hardware RoT attestation rejects rogue node.
+48d8307316bfcebbdd3f4c60ba5066d0dc53e958bc764947bfd0da2325060dbc | 2025-09-05 05:44:50 [IDS] Incident 'rogue_node' raised. Anomaly score=0.9
+7ccb7c5e94898e7e600b92a046b5fd153d0c2b76e6bd47d034dcb57db6dc3013 | 2025-09-05 05:44:50 [FAILSAFE] System degrading capabilities (reduced fire rate).
+6633212ac5b430ee8610a9e917204d0a24242c5f7374a401772238ebcc105d16 | 2025-09-05 05:44:51 [FAILSAFE] System recovered to normal ops.
+d3511623b5d1c6263e5f755eb3bbe0bcb03ee8e686ace761cb37850014062d88 | 2025-09-05 05:45:03 [AUTH] Approval by Officer-C recorded (1/3).
+8dcbcee5f2f568777e40440cfd369e0eeeabd2b73b3c45d27bc36e2f715a7c01 | 2025-09-05 05:45:03 [HUMAN] Engagement request pending: Need 2-of-3 approvals (Q/W/E).
+73a83085e2361b4345c7f05cdc940b6bbcca078ab3059311b82d927873d3cb19 | 2025-09-05 05:45:06 [ATTACK] Device spoofing/rogue node broadcasting.
+c57d9fe8a3683f559c36c23980da830c7994ab2fe3e1f84f2067ced872010e6a | 2025-09-05 05:45:06 [MITIGATION] Hardware RoT attestation rejects rogue node.
+c520affea9837de72619705a3e39b52ba33748f630e799de98b17d756dc98bad | 2025-09-05 05:45:12 [AUTH] Approval by Officer-C recorded (1/3).
+38af6cf0ddd3d2c4da227b5406888dd4c099e18213e9407c940ef1a1dda1eeb5 | 2025-09-05 05:45:12 [HUMAN] Engagement request pending: Need 2-of-3 approvals (Q/W/E).
+e303f1b4315cfd8f278193bb3f0f73bd8ff16b6e4e229c0c9e037191ccdf93ad | 2025-09-05 05:45:14 [AUTH] Approval by Officer-B recorded (2/3).
+23576ca38d6de526459645d043ae957d0113c5b269705df8b1b48cb6977e3c8a | 2025-09-05 05:45:15 [ATTACK] Intercepted Command Packet → Replay attempt.
+485be310890d895ae0d782633e0a9432638471336d18c53d112537f971a556ec | 2025-09-05 05:45:15 [MITIGATION] Nonce+TTL ledger blocked command: Expired command TTL.
+a3e7b49225cef617c7ff4f4119e654b86c9e61f1c2a4029a39ecf9adc35eee81 | 2025-09-05 05:45:15 [IDS] Incident 'replay_fail' raised. Anomaly score=0.7
+d4829c32b9eb28c28a1ac919fc19743bb2df09237c4200c2936b5c45beb291ef | 2025-09-05 05:45:15 [FAILSAFE] System degrading capabilities (reduced fire rate).
+9c7ebe16df34298f5fbdd7d42bfaf4594f00b6430f064e6f7286c74ca58e742d | 2025-09-05 05:45:16 [FAILSAFE] System recovered to normal ops.
+0dc5caf8dbdc1412efcbb43c07918ace3fd01439df7a84022a7ae7c027440996 | 2025-09-05 05:45:20 [AUTH] Approval by Officer-A recorded (3/3).
+c30d68b7162cd4ac3b52a95b26523fcf16970a4e0cd618b4208624164e0b92dc | 2025-09-05 05:45:21 [KMS] Rotated keys to epoch 1.
+7dfa6542f8ef927a9bc54579350af97efca97c2f70e44c2faabd961e8e9d7892 | 2025-09-05 05:45:26 [ATTACK] Intercepted Command Packet → Replay attempt.
+8c63d262f3c01c4c0d7921e9303dfbc0aabf5d7582fbe510436870567b512c95 | 2025-09-05 05:45:26 [MITIGATION] Nonce+TTL ledger blocked command: Expired command TTL.
+59a057101b254bd83faa418b10347581693d8dae306380ae86bdc898775362fd | 2025-09-05 05:45:26 [IDS] Incident 'replay_fail' raised. Anomaly score=0.7
+dd8beabd49fccb86e2142d684301f33cf74ad96d60ccfa6bd18331ad639dc5d2 | 2025-09-05 05:45:26 [FAILSAFE] System degrading capabilities (reduced fire rate).
+a6944642f64190b303cdd099161cf74797ca996dfdde496c21b734a2d111375a | 2025-09-05 05:45:26 [FAILSAFE] System recovered to normal ops.
+dad4d787a933940ce27c7dc35031e40cf29ad2adbfdd568e47d8f3ae79657015 | 2025-09-05 05:45:35 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+7d018f06027faa3d5969535ab5b7d5b06b5069f245d7b825676c05e6a7a17628 | 2025-09-05 05:45:37 [ATTACK] Device spoofing/rogue node broadcasting.
+236a4e49858bc6d775317dcba451b6e789f1a96d91e0075d43230afc23c51628 | 2025-09-05 05:45:37 [MITIGATION] Hardware RoT attestation rejects rogue node.
+dd4a4a94726a73e485d7be1a4706ec94557ff79b35082a19c210b43078bf0bee | 2025-09-05 05:45:51 [ATTACK] Intercepted Command Packet → Replay attempt.
+f23701c3a04d22b48ea6399c28e18db912e547c4cf0f991db2fd7e3fc69e9e0d | 2025-09-05 05:45:51 [MITIGATION] Nonce+TTL ledger blocked command: Expired command TTL.
+502438cbe54b45467103bd7b7d20c1be51ae8f0c0295442e7bf7edaeaee3f238 | 2025-09-05 05:45:51 [IDS] Incident 'replay_fail' raised. Anomaly score=0.7
+d6e64d3a85f8020963b90f2aadb30893daf84306c1ed7371afc4da8b6a92ee7a | 2025-09-05 05:45:51 [FAILSAFE] System degrading capabilities (reduced fire rate).
+d24769444c59e2b07c2ea379a62e51ef98d062dd27b467352ca99846fccb0be4 | 2025-09-05 05:45:51 [FAILSAFE] System recovered to normal ops.
+f96d3f20f6c9bbe55c9e69ebbb36c91ff2a2e87cd8829b95e221d50ddafca181 | 2025-09-05 05:46:03 [SYSTEM] Armies deployed. Friendlies: 10, Enemies: 10
+2faaf13ff7097b67168cba810362f91eec2a429f09553c6fd92e2a9e3896cc29 | 2025-09-05 05:46:03 [SYSTEM] Simulation Started. Robots on both sides are ready.
+c32c591a3f3753bfb2f049fbdc334aafb7aff6d5ddd856209d54a79dac7475ed | 2025-09-05 05:46:03 [TIP] Press H for workflow HUD. E to request engagement, J for kill-switch request, Q/W/E approvals.
+82e2b8234e16b3f79209e85cdcb97c17f60c7be46e1ac6346c8b58ef019ced45 | 2025-09-05 05:46:04 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+5e7505be74a596945a227e294ac7313bbb625c2912e388b88a0defc81fb739c7 | 2025-09-05 05:46:14 [ATTACK] Device spoofing/rogue node broadcasting.
+49cc502f5609262a2d302f25cd9c038d378dcb931756853ee6bc698ad944af8b | 2025-09-05 05:46:14 [MITIGATION] Hardware RoT attestation rejects rogue node.
+817f6dcb7f9a1fcc8ba48545c30eadefa6cabe8730e70f882bd78d821d1492a2 | 2025-09-05 05:46:16 [AUTH] Approval by Officer-C recorded (1/3).
+eeb0c9e592a54da94a8c145120e5de5c7069ab69565891cdf9a340464cd56821 | 2025-09-05 05:46:16 [HUMAN] Engagement request pending: Need 2-of-3 approvals (Q/W/E).
+6641702d05117133996083ae4e6dfffc95efc6dac4dac3c315135da9370eb8c2 | 2025-09-05 05:46:16 [AUTH] Approval by Officer-B recorded (2/3).
+d322be4f21508f427e72fd34998f90c0374e509a0ee1a44321df635ff9e1bad9 | 2025-09-05 05:46:17 [AUTH] Approval by Officer-A recorded (3/3).
+fd1d23c8e9053ff4c11af378f2d2b268415d837f585f7accbccd8ff260c8ad18 | 2025-09-05 05:46:21 [KILL-SW] PATH-1: RoT attestation OK → Signed control frame accepted.
+6d6b71df14b5b9ec800b048708ecfdf73abe6153a79592d1bbaf4723b01c0158 | 2025-09-05 05:46:21 [KILL-SW] PATH-2: OOB network path + KMS epoch keys validated.
+4c2b529720e1333d39d6448e380090cb586f890381cfecaeec80be3f9d4081b5 | 2025-09-05 05:46:21 [SYSTEM] No selected robot to kill.
+70326b9b4a3fd94127cd9f0d34766c18718ca020ce0d336d2b511fc4fcdfdbcc | 2025-09-05 05:46:24 [ATTACK] Device spoofing/rogue node broadcasting.
+1449ca78037a1636d3d2e0683c6d420a49c805b7ea16f032d1974411e3a6f1ce | 2025-09-05 05:46:24 [MITIGATION] Hardware RoT attestation rejects rogue node.
+b74128b6788a8e919cd77cb9addd33b47d729b2363c2ff79cb4b7f76cf33c7bf | 2025-09-05 05:46:24 [IDS] Incident 'rogue_node' raised. Anomaly score=0.9
+d2b84c03be4c591361a44e673f33d836ac9f3c7fe75cf0df116f09e961df0c1a | 2025-09-05 05:46:24 [FAILSAFE] System degrading capabilities (reduced fire rate).
+e2663cdf1996dfb1fb82651635a53b0d14bcfd894bdee5efcbc4848c4fb01d3b | 2025-09-05 05:46:24 [FAILSAFE] System recovered to normal ops.
+01687098537d6fb986c4afc606d99abdc04cd82b6dbfa7b1a96041c536f3f978 | 2025-09-05 05:46:29 [SYSTEM] Selected FR-Bot-07 (Friendly).
+831d38465b4a4d01b529e32c68e97457b8730c1bb540c70f3bf3923f2f4675fd | 2025-09-05 05:46:32 [KILL-SW] Kill-switch not armed. Press J to request.
+737782dbeed0d3c7803c250ad615192dee730680ccc62cf229c1f28fa5e084eb | 2025-09-05 05:46:34 [KILL-SW] Kill-switch not armed. Press J to request.
+fe79024a424feaab2b5c3e1e5ee744ba34fa8e1ac9656c323c65e24a0a62d07a | 2025-09-05 05:46:35 [KILL-SW] Kill-switch not armed. Press J to request.
+29fbee9f036d5fad89de2195f3c5e3bc9a71d110d55d59799b88f9214f2927f1 | 2025-09-05 05:46:35 [KILL-SW] Kill-switch not armed. Press J to request.
+4a2647eb7d8e3bf5378b02a631d27249fc18c8e8f870dfdd56936f7a16345b04 | 2025-09-05 05:46:36 [KILL-SW] Kill-switch not armed. Press J to request.
+72808579b662b2023807e15082cf42a9ebf97cdd399ef7c92b962b0a74c30817 | 2025-09-05 05:46:36 [KILL-SW] Kill-switch not armed. Press J to request.
+4fe9b26dcf3911deda57ed4d73fe5d83ba1fa574593dde0002b17af26858ee49 | 2025-09-05 05:46:36 [KILL-SW] Kill-switch not armed. Press J to request.
+daa444b279bdfddb6de40ee3967c1cab5f2bbdc959920887c1f1cf9d362578e5 | 2025-09-05 05:46:39 [ATTACK] Network compromise suspected (MITM).
+1b6924ce9313f5a8cefa17bc69d41a1d2113c4e474a70fb676d51b810d63ed4c | 2025-09-05 05:46:39 [MITIGATION] Out-of-band path + mTLS used for critical commands.
+9cefd32f69413a417246ef5480206ab655e462569cc54fc8fa69aa2ebbbc5b9c | 2025-09-05 05:46:41 [SYSTEM] Selected FR-Bot-05 (Friendly).
+5d45c9fdbe7c931124c3e6402da6ddec1f9387b43035d3d70bcc4b725f3e513f | 2025-09-05 05:46:42 [KILL-SW] Kill-switch not armed. Press J to request.
+34b1972e67dd6e4c87217e003e4e9ba889717c0ac16e373d7f3019ad9fdf2217 | 2025-09-05 05:46:48 [KMS] Rotated keys to epoch 1.
+d10d24834cea4bad0da72807a9bc2c6d2b815b50f5d7b5f65ef65a8b49dffc7d | 2025-09-05 05:46:49 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+80ef720d1f8acb8e3322a0de451798e3bd69418d55ccd2304c23b11b06f11637 | 2025-09-05 05:46:53 [ATTACK] Network compromise suspected (MITM).
+2459272bfba29b65e6f6d0bcabdb6912dfcb958c1ce9277a900be2d04b435ecb | 2025-09-05 05:46:53 [MITIGATION] Out-of-band path + mTLS used for critical commands.
+da7e883a54376035f0d595f063059d57c5574c40a13ed3d40bbcc36dcea5a79e | 2025-09-05 05:47:07 [ATTACK] Intercepted Command Packet → Replay attempt.
+67faf94fc301f798f1b5a1ba59212e2e4571fc1da26360fec3b9dea3ffed4374 | 2025-09-05 05:47:07 [MITIGATION] Nonce+TTL ledger blocked command: Expired command TTL.
+c4ce922b4d61ac4c7f3128a93a55fd1de789d9e17c73bfea27019dd0647e1eee | 2025-09-05 05:47:07 [IDS] Incident 'replay_fail' raised. Anomaly score=0.7
+5358ae647a4d94805b22588c107f384898fdbce83677c13276c137523d09b541 | 2025-09-05 05:47:07 [FAILSAFE] System degrading capabilities (reduced fire rate).
+1a4ed83b3b8ae05eac39231eb8142a62eda01e4b6303a21d53fce11581743003 | 2025-09-05 05:47:07 [FAILSAFE] System recovered to normal ops.
+6acd712ffd38d239c8b0b9952aa2d090ecf10be078970223231d0f9cab18b639 | 2025-09-05 05:47:07 [KILL-SW] Approvals insufficient (need 2-of-3).
+02cf05cfbc545b1a64c49d6f61a1d4a926b5143f15948617bbae6f1acc903772 | 2025-09-05 05:47:08 [KILL-SW] Approvals insufficient (need 2-of-3).
+dabfd55c1b28c1aad7b7dc6957d56a3ba09f31719a6159753e4d50519cbd9266 | 2025-09-05 05:47:10 [KILL-SW] Approvals insufficient (need 2-of-3).
+c623172247087c89b99adc398a98368438a4ac85eead1c1a2d8c3664c5f2d303 | 2025-09-05 05:47:13 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+f49715257daaf5754674588d1adf594e6c79bcf477fe997f74ad345fd7239174 | 2025-09-05 05:47:14 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+0529db6fd7ff46a9eee18ad89bbeada8a1bbc2e98815dc7dd96df81b38208817 | 2025-09-05 05:47:14 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+c775af6356964bddf69418dd28a2499487a6ffb147b11229f0d4cca42c0b4e45 | 2025-09-05 05:47:14 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+e3cc8ec789e68062278e5f2ae0d8de14c4c0db6b99057f8104a303261c689b78 | 2025-09-05 05:47:15 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+f30c1531b8a65b7b1d84317edeefa7d2386d83bb940abb788c763d80dfbb5cb5 | 2025-09-05 05:47:15 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+a758fc571c85898afc01935744abe1f2582de7529695d18ffbea505ef6250c9a | 2025-09-05 05:47:15 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+cd062961216fd22bc98bbd6a1c4043cb72bd9d39d63a99de2e318cfe8795e2b5 | 2025-09-05 05:47:15 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+87b4d8219f5f2d06512fff5e8177336769142418df5eabb36f7d51fe5fe3e095 | 2025-09-05 05:47:22 [ATTACK] Intercepted Command Packet → Replay attempt.
+a911d5ba5649b15de19b23c48a10e9a2bb6056f5f5c77a7be4f5bf3afb1a439b | 2025-09-05 05:47:22 [MITIGATION] Ledger accepted, but anomaly scan performed.
+2e597508eb886dde7f2f57e22d7082aa5c61cc324443a94a55d6333451f27e81 | 2025-09-05 05:47:28 [AUTH] Approval by Officer-C recorded (1/3).
+b15e144aad10dcad06f7f2b678f9685523f526cf477cf5b7a3d9f3cfb2755075 | 2025-09-05 05:47:28 [HUMAN] Engagement request pending: Need 2-of-3 approvals (Q/W/E).
+7b73fead857df98cc4ef9b2df85edfb3ef72d480618ab09c28b4228b500572c3 | 2025-09-05 05:47:28 [AUTH] Approval by Officer-B recorded (2/3).
+ee01934f186c00f8e4fb4428ad6f1e2915d97def43fe91e64158b6d629c25afe | 2025-09-05 05:47:28 [AUTH] Approval by Officer-A recorded (3/3).
+aab7dc72a461c8beec5cf6e730679ff43684db14c6f51ae956302c16551ce610 | 2025-09-05 05:47:32 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+e8a265cfa620a675fe339c99b4ab820f4894f120eaa1c532fd290395be3405ab | 2025-09-05 05:47:33 [KMS] Rotated keys to epoch 2.
+d7b097ef980cfac0cf3c91218800ed75d04032704fb1597cd43c8a96057e9763 | 2025-09-05 05:47:36 [SYSTEM] Selected FR-Bot-07 (Friendly).
+ba20c136c88b8cf46d085eb01ac79944d2521dac32bc8726ca756616977724f8 | 2025-09-05 05:47:37 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+1152f2b0af9592b63fd7240b531a4d702283b6480147c7d6b755451f537c0ce8 | 2025-09-05 05:47:37 [ATTACK] Intercepted Command Packet → Replay attempt.
+646c7dc860ce17f17e518ec35f0f4a59dca18befab3cc2c90f8d00c7924e4245 | 2025-09-05 05:47:37 [MITIGATION] Ledger accepted, but anomaly scan performed.
+ebbed649af491340663b0aa33bc160012245d829899ed85afe675e3fac01b077 | 2025-09-05 05:47:45 [ATTACK] Intercepted Command Packet → Replay attempt.
+5afe3adc58d968b0224f882b48d3b4b83dd7ee175359ed686515f381befc83b6 | 2025-09-05 05:47:45 [MITIGATION] Ledger accepted, but anomaly scan performed.
+0841d1f7ca2b9748219bb87ccdfd35a2a527543c36c5f6e74ec3abf23e240578 | 2025-09-05 05:47:55 [ATTACK] Intercepted Command Packet → Replay attempt.
+b71f6ff68499b0eec16f460a8b75cc2f3d9e512232f2aa1c6c7240ee71020842 | 2025-09-05 05:47:55 [MITIGATION] Ledger accepted, but anomaly scan performed.
+d2715cb8ce373bfd0e037e9d43a982b77af0f8f86e7b3b69b5068faa96288215 | 2025-09-05 05:48:07 [ATTACK] Device spoofing/rogue node broadcasting.
+c7c5c0849d532df4e3ec92206ad0c8795fa09a2e14bd52b2b59937668446aa1a | 2025-09-05 05:48:07 [MITIGATION] Hardware RoT attestation rejects rogue node.
+74c0b54808abb1c1ff37c6ae02301bdd1be80cc017b265f465eb60949495a3a7 | 2025-09-05 05:48:07 [IDS] Incident 'rogue_node' raised. Anomaly score=0.9
+185cf463717935d789cb07639cfa2e18762068cbf58f3166f2591699e2acbc25 | 2025-09-05 05:48:07 [FAILSAFE] System degrading capabilities (reduced fire rate).
+967bc9fb18a4f767d5a180e55c72aa974cd1ec7777f0763f96e922a6bbb63167 | 2025-09-05 05:48:07 [FAILSAFE] System recovered to normal ops.
+5204cf33447d2c3806511114592d30263237bc49596576e0dd6274102ded8165 | 2025-09-05 05:48:17 [ATTACK] Device spoofing/rogue node broadcasting.
+7038da82c03e304fc7ee6c9e6ade963214a999728bf6ec1aa8829dda3feede81 | 2025-09-05 05:48:17 [MITIGATION] Hardware RoT attestation rejects rogue node.
+4e646a8141eeecc5d67a5098b0d469bb45201c017e902930e9eae96ae13727ed | 2025-09-05 05:48:17 [IDS] Incident 'rogue_node' raised. Anomaly score=0.9
+2b0744d41e6a5eee579721545ca28d4f045f423cc4f1c8a028da83b474cc84ac | 2025-09-05 05:48:17 [FAILSAFE] System degrading capabilities (reduced fire rate).
+488bb28663df913a831bbeffb86f0d5a8f25a71f2ed7c12429de318c522d621e | 2025-09-05 05:48:17 [FAILSAFE] System recovered to normal ops.
+ea721ecada52617a858d6a40f8c2832cdd9ca8cc6c7554ba1b32148f39d9936f | 2025-09-05 05:48:18 [KMS] Rotated keys to epoch 3.
+4448c8ce51f00bb42df8dde3ff9eb3c7f7b2605737ab272894b911af17f68a72 | 2025-09-05 05:48:19 [ATTACK] Network compromise suspected (MITM).
+499d64a7d34623370a02e8b621748a4f3dd37f54a809ddbeb381e439e99d9d57 | 2025-09-05 05:48:19 [MITIGATION] Out-of-band path + mTLS used for critical commands.
+937d2d157dab9ddf3e233eefcbb30279d6796cb56a92ae59aa2d1a0db88a39bd | 2025-09-05 05:48:19 [IDS] Incident 'network_compromise' raised. Anomaly score=0.6
+e6e1a55ce14bf390bfcde9b50aa4b1e1f4c5904a8d042689bb7a68ed13ecac2d | 2025-09-05 05:48:20 [ATTACK] Network compromise suspected (MITM).
+4b512bcd881041aef98d176918f168cc1919f1fafbfd6f810da4b925485e8ba7 | 2025-09-05 05:48:20 [MITIGATION] Out-of-band path + mTLS used for critical commands.
+f946c49050416330423b2fbb591ef0332674faa9b9721e797b2199e5065d0f81 | 2025-09-05 05:48:20 [ATTACK] Device spoofing/rogue node broadcasting.
+7e1bed90511b06dde515406e782c392027a55049a6b5ec71525b6ae8f8a97323 | 2025-09-05 05:48:20 [MITIGATION] Hardware RoT attestation rejects rogue node.
+0c032d18f1d85aa110708262147adf7c8b210382d917e90db78653c8e6d374f8 | 2025-09-05 05:48:28 [ATTACK] Network compromise suspected (MITM).
+a66fd8e56c3a51931a4afe0ec8c5aacbc9245d17d1da5e2db30df595f3b62d5a | 2025-09-05 05:48:28 [MITIGATION] Out-of-band path + mTLS used for critical commands.
+acf06798ddc24cac0e2a8948565ddea182413bb63b2ced249295a82ea87e2360 | 2025-09-05 05:48:28 [IDS] Incident 'network_compromise' raised. Anomaly score=0.6
+d985ed6a0220ed335946e6e2891c4e97918fd4c81575da0d4674e8fd6953ae8e | 2025-09-05 05:48:29 [SYSTEM] Selected FR-Bot-09 (Friendly).
+88224a2e4f4995647f4f72fa53e33cda07b4deb8f945341932999b52f1d32fbe | 2025-09-05 05:48:31 [KILL-SW] Approvals insufficient (need 2-of-3).
+7a0b54fc55300b9e4eaab9e401d66e2f61e6fe1b6f002785300456543f4741b9 | 2025-09-05 05:48:39 [ATTACK] Intercepted Command Packet → Replay attempt.
+e2acd245a118c8abad5ce883387354f7e907e14ed7421a5efc16022340cfa6de | 2025-09-05 05:48:39 [MITIGATION] Nonce+TTL ledger blocked command: Expired command TTL.
+564e589cd667f4c81dde7e5e0edb3c6fcbcae76c1b8d59ecc9bc8366f65fd5a9 | 2025-09-05 05:48:39 [IDS] Incident 'replay_fail' raised. Anomaly score=0.7
+50f7c43b8fc26a366b7967cc10fa64ac5b79c7ded8f7d4cbfc465a7520f4878c | 2025-09-05 05:48:39 [FAILSAFE] System degrading capabilities (reduced fire rate).
+f3b2c922cb85d5ce22c8768949e8647a972e423f8f8021f751447004d7a2b573 | 2025-09-05 05:48:39 [FAILSAFE] System recovered to normal ops.
+695eed474d8af291229628990aa1d9a838896e6f156e42688d395dba2ef0ce8b | 2025-09-05 05:48:40 [HUMAN-CMD] Friendly Fire Authorization: ON
+ec298ea04800466d15a3ac0ae273d89d046010b5d9e4ed69bae830c15cdfa5d9 | 2025-09-05 05:48:40 [HUMAN-CMD] Enemy Fire Authorization: ON
+86bab8e665416350a71e21744430864b586693d4f164e5917b3b540293afe420 | 2025-09-05 05:48:40 [HIT] EN-Bot-09 destroyed by FR-Bot-09.
+4d9d15ab1b6f7c1e063d7951133a4b2a0df2b139443ff983383a8e856c8efa8c | 2025-09-05 05:48:41 [HIT] FR-Bot-09 destroyed by EN-Bot-09.
+81567fe9164e8d73565c3de2617754659bfd694a47ce301b3239e608c7e1785a | 2025-09-05 05:48:41 [HIT] EN-Bot-06 destroyed by FR-Bot-08.
+fd40aefe5adf9028e71d1b76ed51cbd2cd77a225f983dda37d51ec782fbb7fe8 | 2025-09-05 05:48:41 [HIT] FR-Bot-06 destroyed by EN-Bot-08.
+71b7b5c6f9fc23cffc1bdce7a4c42fc50a2637927173a66e9011c52e5476b741 | 2025-09-05 05:48:41 [HIT] EN-Bot-04 destroyed by FR-Bot-07.
+6097baa6a6ca01d17d9ae5e66dd9129ee62ca50778f78f0f62e6cc336fb85aee | 2025-09-05 05:48:41 [HIT] FR-Bot-04 destroyed by EN-Bot-07.
+d2315ac0ec605cfd7446512684a6e7e0043be2360a093a9cca439f170c82c4d1 | 2025-09-05 05:48:41 [HIT] EN-Bot-02 destroyed by FR-Bot-03.
+56df8061264fc4c47aad948eee9a90f08a2eafbc5046b094467ae2c8119b5ed9 | 2025-09-05 05:48:41 [HIT] EN-Bot-07 destroyed by FR-Bot-08.
+76eadd00b3ee5808d959ad5671adf07c502262dd2eb455e3426ea0f2d4fb92e0 | 2025-09-05 05:48:41 [HIT] FR-Bot-08 destroyed by EN-Bot-08.
+087ab694a6cbf829c0f0d22cc624ed8c1660f601c82f019dad971582190db4e2 | 2025-09-05 05:48:42 [HIT] FR-Bot-02 destroyed by EN-Bot-01.
+c360ff062ec8a7748904b5092af16793b579bb18e0af17765ec83ed3f25e6be9 | 2025-09-05 05:48:42 [HIT] EN-Bot-08 destroyed by FR-Bot-04.
+1667d2e03f5e9eb95efe2735fa5225bd75c780df0bbd102aed23fc4d5207f29d | 2025-09-05 05:48:43 [HIT] EN-Bot-05 destroyed by FR-Bot-07.
+076ada3c48e960f653a11973747e3ffc67c0af8399daf06ff950e4634ec72513 | 2025-09-05 05:48:43 [HIT] FR-Bot-07 destroyed by EN-Bot-03.
+21577eb75f6095d1374fb413543f1340c2c4041663e09b2eeb20d4a1068a3c41 | 2025-09-05 05:48:43 [HIT] EN-Bot-00 destroyed by FR-Bot-05.
+a83a431197f2326b5d0eae123f58ec53f526593939ed3411f66aeca1b7e81a44 | 2025-09-05 05:48:44 [HIT] FR-Bot-00 destroyed by EN-Bot-00.
+e9a7e6d1d468e23b987393586891331b00e3dca65fbfea97f15fd3e0ef76fcde | 2025-09-05 05:48:44 [HIT] EN-Bot-03 destroyed by FR-Bot-07.
+ae578dfff7fad5b9ae26dc85c5de6c883ef46663f4c55768964f1b8294bc7c70 | 2025-09-05 05:48:44 [HIT] EN-Bot-01 destroyed by FR-Bot-05.
+6359af08759083a9a86c40cfb4e4f8d120cc2cda103fb52fa3d3a708b0c48f0b | 2025-09-05 05:48:45 [HIT] FR-Bot-05 destroyed by EN-Bot-03.
+8c629991133bf4958b3f374f1630cb4396c1c7bb714388c5d3e5295019a8e678 | 2025-09-05 05:48:47 [ATTACK] Intercepted Command Packet → Replay attempt.
+8feb9d58382536fbbb2a085b324a90ca68d8b534033f02f57223047a664060b9 | 2025-09-05 05:48:47 [MITIGATION] Nonce+TTL ledger blocked command: Expired command TTL.
+46aeb2e675321d5b0443e5f7ca067c930657745443b8e03508231383dd0d1c90 | 2025-09-05 05:48:47 [IDS] Incident 'replay_fail' raised. Anomaly score=0.7
+3f9389b84e9fd660ec7bc74d8474f281099d6217eb4100f061b031fa326f919c | 2025-09-05 05:48:47 [FAILSAFE] System degrading capabilities (reduced fire rate).
+cfb19d436a167cc7d37407867ba0a8e065918a96e6b3e241512ece08a77165f3 | 2025-09-05 05:48:47 [FAILSAFE] System recovered to normal ops.
+39fef86fc079253766634224c8f651723872257a369a82d3c12b2648ae6d3e46 | 2025-09-05 05:48:49 [SYSTEM] Selected FR-Bot-03 (Friendly).
+45be971143fdbd4decab9968b0ce3ac9ce9a40e31c92eb6937a6a542a47a9e0c | 2025-09-05 05:48:56 [AUTH] Approval by Officer-C recorded (1/3).
+6f5afbffb7a44ecb81c4dfcf312b66846d5eb1414cdd52145ffe9e6861770f1e | 2025-09-05 05:48:56 [HUMAN] Engagement request pending: Need 2-of-3 approvals (Q/W/E).
+c31e727090ff6582fe0bf084cea160657f42f160da07a9e298006281fc6eca9a | 2025-09-05 05:48:57 [AUTH] Approval by Officer-B recorded (2/3).
+b4042b51ad3bba4d77cf84d6f8b64c72f4c978d2299055a9cb2c66f6def4df31 | 2025-09-05 05:49:02 [SYSTEM] Selected FR-Bot-01 (Friendly).
+64ecb5b2383d4df98eefd07623fc32b67aed54af4224bb9fcb987392916c84a6 | 2025-09-05 05:49:03 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+ddde5df017f63674099c24450206d9715dfc3d83f066bea2a49dcf8cb8ce52b8 | 2025-09-05 05:49:03 [KMS] Rotated keys to epoch 4.
+8af6df946c36a05c23bfe29b5828317e5bc0d1aa5b84f98d9724c6ee2bd4aa8c | 2025-09-05 05:49:03 [ATTACK] Intercepted Command Packet → Replay attempt.
+a43c917d2fddb6ac5fd10604ebdc68f8fbb617c1591d5e6aa8fdc8ff83177f37 | 2025-09-05 05:49:03 [MITIGATION] Ledger accepted, but anomaly scan performed.
+ff8f2191d15886b011f863acc856ca34937193371f6d5b0be1d1b68b57c1801e | 2025-09-05 05:49:06 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+1663e539413749780f837fc6f32b9822b0361215126bfa52a585ce4e5e0061c7 | 2025-09-05 05:49:07 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+c0506a83942fe94f456ba3923a3fcbfe4b40ca4fbafba0965aff3f451f225552 | 2025-09-05 05:49:13 [ATTACK] Network compromise suspected (MITM).
+78fdcd52e46869886ebc00c051242db3bb410ba16a79e9e51e87cf7cf4e9003a | 2025-09-05 05:49:13 [MITIGATION] Out-of-band path + mTLS used for critical commands.
+22253f65f80e5e90e1791689e4d09ff146aa4cfad338f956451292049edbfe4a | 2025-09-05 05:49:15 [KILL-SW] Approvals insufficient (need 2-of-3).
+e0c714348cfdc754863c0e5a3bd2e2732b48e044c1998f4fbb67a2d80de659f3 | 2025-09-05 05:49:16 [KILL-SW] Approvals insufficient (need 2-of-3).
+337603c744bb20c13433b38b36715944104b455699a5a7e3a20592f185b6492f | 2025-09-05 05:49:18 [SYSTEM] Selected FR-Bot-01 (Friendly).
+19b3aef2599cc450f47dcdd98db3a15391aab2c218cd15c62b49639d6d9384c9 | 2025-09-05 05:49:21 [SYSTEM] Selected FR-Bot-03 (Friendly).
+af302693db5cbae348fef88c5d963f84409de2a3e4eb19a1c8d78bb1a9368048 | 2025-09-05 05:49:23 [AUTH] Approval by Officer-C recorded (1/3).
+1756e15fd644c4c783844fb85a2de370d75d57d7ae3f757a3301add7cf54ed27 | 2025-09-05 05:49:23 [HUMAN] Engagement request pending: Need 2-of-3 approvals (Q/W/E).
+b0c360862b1618c255bcb05993e34ff6a98c4c6a7b7ea0e4fcbdbbcece4b063b | 2025-09-05 05:49:23 [AUTH] Approval by Officer-B recorded (2/3).
+e1d0306e1eb221dbc565a07ff3b2e43125865db903d7df2e783b1f35fba940c8 | 2025-09-05 05:49:24 [AUTH] Approval by Officer-A recorded (3/3).
+a7e59ae15ac37f1f8e9d2c253b11fda4dc273112488852e722419ba6727c6301 | 2025-09-05 05:49:26 [KILL-SW] PATH-1: RoT attestation OK → Signed control frame accepted.
+9329ee4417ec6a2de38c5c314df8187d10034e62a3a40f56f342c4ed09b4a2bc | 2025-09-05 05:49:26 [KILL-SW] PATH-2: OOB network path + KMS epoch keys validated.
+a443a723ba26b66c13354fe48f8061dc7af1d48a08a1bb24d47ef3d47190c06e | 2025-09-05 05:49:26 [HUMAN-CMD] Killed selected robot FR-Bot-03 (Friendly).
+3b38cce903c1b68f435012fa69719f91f6935ec4b77896108d573d4e6d4ed60d | 2025-09-05 05:49:28 [ATTACK] Device spoofing/rogue node broadcasting.
+778720d128dae878e3f3ab6f936d5fe896c2e56f27193f3ba760f292bf661e0e | 2025-09-05 05:49:28 [MITIGATION] Hardware RoT attestation rejects rogue node.
+730e36c2dbc7b6da33ef9f21e01206d60f1e2809a25b3e7899293f5dd17ba443 | 2025-09-05 05:49:29 [SYSTEM] Selected FR-Bot-01 (Friendly).
+10118ffa6d41564f00d75ae40cf3d57eaf52bffda9606bc62bb90758bb44d83d | 2025-09-05 05:49:30 [KILL-SW] Kill-switch not armed. Press J to request.
+9629be1f1d8ffdcffe9a0446ae3bc6179073ca9d51180e25db39b57237df4a30 | 2025-09-05 05:49:31 [KILL-SW] Kill-switch not armed. Press J to request.
+a78a9c9a9b40575a467f523bd7f32fb5fbefc68b28da5e757c4279c55ee11ade | 2025-09-05 05:49:32 [KILL-SW] Kill-switch not armed. Press J to request.
+f0d8a5d0fc14a97d80b57b0b8a02e01ccbf2560c182bf3df0d6d22640a2a7ae6 | 2025-09-05 05:49:32 [KILL-SW] Kill-switch not armed. Press J to request.
+7690f83432dd51c5e491621334b80c4e05541f44a8210c61d0c4a8d3158bbecf | 2025-09-05 05:49:33 [KILL-SW] Kill-switch not armed. Press J to request.
+6b8a06d8807fd0ff84a2e4339580b734b18a1db06f5a69ed30a879c03629bb16 | 2025-09-05 05:49:33 [KILL-SW] Kill-switch not armed. Press J to request.
+3943479a03a5e6cc456c976c08c257b173fe8c18b4b4e57d639bf59e7dc670a2 | 2025-09-05 05:49:33 [KILL-SW] Kill-switch not armed. Press J to request.
+9e596e8abf3e875f408a973eaae27f6c2cce8a609da53e4cd1a9aaa9485de83a | 2025-09-05 05:49:33 [KILL-SW] Kill-switch not armed. Press J to request.
+0483a92c0ce44af075063cef59087be86631215a4d990ac054dce1d064bae8b7 | 2025-09-05 05:49:34 [KILL-SW] Kill-switch not armed. Press J to request.
+a05b3cbda376e4e2d0a1581c593c46dfed8d4cb4be4c2e89ff42e58c591adfd2 | 2025-09-05 05:49:36 [ATTACK] Intercepted Command Packet → Replay attempt.
+bc4d291fd2306b1d5d3fcdd0f2d80c1b4554bd0f8935ffbf1e2c843a58eb2e7d | 2025-09-05 05:49:36 [MITIGATION] Ledger accepted, but anomaly scan performed.
+a8fa7d50130a516ba0717bae7bf01453e754a1242baa57d9994c45ff50771a95 | 2025-09-05 05:49:39 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+0d1ebdc2464d87b9e70a0ac1124b804ac1bd23754c170756fd673d1026480537 | 2025-09-05 05:49:43 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+d4616da35927d72c74bf108715de299038abc28a6f9e4a799a17da550ad9206c | 2025-09-05 05:49:47 [KILL-SW] Kill-switch request armed. Need 2-of-3 approvals (Q/W/E) then press K/L/U.
+896e8d7e8c8f6c9257d3decf1e739843c2144e4ccbf47bc70c4feec48eeb307d | 2025-09-05 05:49:48 [KMS] Rotated keys to epoch 5.
+096cdfddeb2fff2f59c6cd2646b24b01f122bc4e7a1efe5ce6b8a920d18445f6 | 2025-09-05 05:49:49 [AUTH] Approval by Officer-C recorded (3/3).
+046315178c98ab9f7e2ed8592e43e298373f4e158a37c64c6cbe384f777aa70d | 2025-09-05 05:49:49 [HUMAN] Engagement request pending: Need 2-of-3 approvals (Q/W/E).
+85817651a4be1004f6466257174b3be1de4903fa4f1e81f857393466984727ab | 2025-09-05 05:49:49 [AUTH] Approval by Officer-B recorded (2/3).
+08b8753e59e362dd648f4b9993508f7f78bafdca6e90fe74759a7ea4b4825ac9 | 2025-09-05 05:49:49 [ATTACK] Network compromise suspected (MITM).
+cd9b18720208550c2e14eb197d73a3d660b01d83dd6289484394b64dbe0f82af | 2025-09-05 05:49:49 [MITIGATION] Out-of-band path + mTLS used for critical commands.
+097238fd8e98eeb07be0743afab0fd8ec907404d37fb042bb92ec16cf8a8e6e6 | 2025-09-05 05:49:49 [AUTH] Approval by Officer-A recorded (3/3).
+546db0569efca6664e48d66820ea9f6b85b529cbc4264089ee50e07d1f239350 | 2025-09-05 05:49:51 [KILL-SW] PATH-1: RoT attestation OK → Signed control frame accepted.
+537f4d160d7116fb784ce806daf5d42466afaed25eff8f8f9aca5850222190c8 | 2025-09-05 05:49:51 [KILL-SW] PATH-2: OOB network path + KMS epoch keys validated.
+030c14fafd24998850b79103a6a7b4930184384d83aad6399d191606868b9afb | 2025-09-05 05:49:51 [HUMAN-CMD] Killed selected robot FR-Bot-01 (Friendly).
