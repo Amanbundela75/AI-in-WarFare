@@ -47,10 +47,17 @@ Our framework ensures that **final lethal decisions remain in human hands**, whi
 We designed multiple workflows to ensure **security, accountability, and resilience**.  
 
 1. **Human-Controlled Lethal Decision Workflow**  
-2. **Secure Kill-Switch Control Plane (Hack-Resilient)**  
-3. **Attacker Scenarios & Mitigations**  
 
-👉 *(You will add detailed workflow diagrams here.)*  
+![My First Board (3)](https://github.com/user-attachments/assets/1e78c284-8370-44f5-82bb-2229dc1d2748)
+
+2. **Secure Kill-Switch Control Plane (Hack-Resilient)**
+   
+ ![My First Board (4)](https://github.com/user-attachments/assets/60c65984-0da0-4438-8020-eac510707e1d)
+
+ 
+3. **Attacker Scenarios & Mitigations**
+   
+![My First Board](https://github.com/user-attachments/assets/8b1d4220-5849-4086-9973-5acbd1b7ef03)
 
 ---
 
@@ -103,5 +110,5 @@ This ensures:
 
 ---
 
-✨ Developed by **Aman Bundela, Shivam Sikarwar, Jaydeep Chaurasiya, Vidushi Tomar**  
+✨ Developed by **Aman Bundela**  
 🎓 Department of Computer Science & Engineering, ITM University  
